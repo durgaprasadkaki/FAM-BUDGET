@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **[cors](https://github.com/expressjs/cors)** – Cross-Origin Resource Sharing
 - 
 ## 📞 Support
-For support, email [sreenathreddy0404@gmail.com] or create an issue in the GitHub repository.
+For support, email [kakisuresh297@gmail.com] or create an issue in the GitHub repository.
 
 ## 📊 Project Status
 
@@ -187,7 +187,7 @@ For support, email [sreenathreddy0404@gmail.com] or create an issue in the GitHu
 ![Open Pull Requests](https://img.shields.io/github/issues-pr/sreenathreddy0404/FAM-BUDGET)
 
 <div align="center">
-Made with ❤️ by Sreenath Reddy
+Made with ❤️ by Durga Prasad
 
 ⭐ Star this repo if you find it useful! ⭐
 
