@@ -75,7 +75,7 @@ FamBudget is fully responsive and works on:
 
 1. **Clone the repository**
   ```bash
-  git clone https://github.com/sreenathreddy0404/FAM-BUDGET.git
+  git clone https://github.com/durgaprasadkaki/FAM-BUDGET.git
   cd FAM-BUDGET
   ```
 
