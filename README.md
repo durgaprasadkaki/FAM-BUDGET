@@ -182,9 +182,9 @@ For support, email [kakisuresh297@gmail.com] or create an issue in the GitHub re
 
 ## 📊 Project Status
 
-![Last Commit](https://img.shields.io/github/last-commit/sreenathreddy0404/FAM-BUDGET)
-![Open Issues](https://img.shields.io/github/issues/sreenathreddy0404/FAM-BUDGET)
-![Open Pull Requests](https://img.shields.io/github/issues-pr/sreenathreddy0404/FAM-BUDGET)
+![Last Commit](https://img.shields.io/github/last-commit/durgaprasadkaki/FAM-BUDGET)
+![Open Issues](https://img.shields.io/github/issues/durgaprasadkaki/FAM-BUDGET)
+![Open Pull Requests](https://img.shields.io/github/issues-pr/durgaprasadkaki/FAM-BUDGET)
 
 <div align="center">
 Made with ❤️ by Durga Prasad
