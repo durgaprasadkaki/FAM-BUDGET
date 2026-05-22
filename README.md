@@ -100,6 +100,8 @@ FamBudget is fully responsive and works on:
   MONGODB_URI=mongodb://localhost:27017/fambudget
   JWT_SECRET_KEY=your_super_secret_jwt_key_here
   PORT=5000
+  
+  You can also copy [server/.env.example](server/.env.example) to [server/.env](server/.env) and fill in your own MongoDB connection string.
   ```
 
 5. **Run the Application**
